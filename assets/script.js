@@ -100,3 +100,4 @@ function updateTotal(){
     total = gb + cc + sugar
     totalCount.textContent = total
 }
+
